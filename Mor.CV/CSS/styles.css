@@ -1,0 +1,56 @@
+body {
+  background-color: #eeeeee;
+  font-family: Georgia;
+
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 15px;
+}
+ hr {
+   border-style: none;
+   border-top-style:dotted;
+   border-width: 2px;
+   width: 7%;
+   color: #84a9ac;
+ }
+
+.heading {
+color:#84a9ac;
+}
+
+.paragraph {
+  font-size: 15px;
+}
+
+.contactme {
+
+}
+
+.label {
+  padding: 12px 12px 12px 0;
+  display:inline-table;
+}
+
+.buttom {
+background-color: #84a9ac;
+font-family: Georgia;
+font-size: 15px 20px;
+border: none;
+
+}
+
+div {
+  width: 400px;
+  border: 3px solid grey;
+  padding: 100px;
+  margin: 20%;
+}
